@@ -1,3 +1,11 @@
+# Member Grade Report for lbrines for test1  
+   
+Member_Github_Account_Login: lbrines  
+Member_Github_Account_ID 32749639  
+Test_Name: test1  
+Test_Date: Fri Sep 10 18:17:23 UTC 2021  
+Course_URL: https://modernappsninja.github.io/introtanzustandard_ts7297/  
+   
 ---  
 #### test1 Individual Question Results:  
 Question1: Incorrect  
